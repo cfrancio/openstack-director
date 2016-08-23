@@ -1,0 +1,322 @@
+NODE: 40f67398-609a-4ed7-ab7a-df87d114b88b
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  }
+]
+-----
+NODE: b3e65ea4-eab5-4f77-a1fa-6faed13df6f1
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  }
+]
+-----
+NODE: 5de03a53-a318-465a-aab3-201ae0995744
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  }
+]
+-----
+NODE: 6d73b0cb-10a6-41cc-b9f7-a1567ea3dd13
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  }
+]
+-----
+NODE: eac7a060-fefe-443d-bc63-87128996fe69
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  }
+]
+-----
+NODE: e5940dd0-57b3-4251-a80e-bbc09470cf10
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00002"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00004"
+  }
+]
+-----
+NODE: 375e8283-0226-4a64-a209-28712945a5e2
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00002"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00004"
+  }
+]
+-----
+NODE: 123e8fea-d825-4278-b1f4-c36ce5b303ee
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00002"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00004"
+  }
+]
+-----
+NODE: 8172e6e2-62b4-438e-83a8-754690d794bb
+[
+  {
+    "size": 4096,
+    "rotational": true,
+    "vendor": null,
+    "name": "/dev/fd0",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 44023414784,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00001"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00002"
+  },
+  {
+    "size": 11811160064,
+    "rotational": true,
+    "vendor": "ATA",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "QEMU HARDDISK",
+    "wwn": null,
+    "serial": "QM00004"
+  }
+]
+-----
